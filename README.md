@@ -4,7 +4,7 @@ I'm Manish.M, student at Ramaiah Institute of Technology,Bangalore.
 <!--
 **Manish-M2018/Manish-M2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### About :smiley:
+### About me :smiley:
 
 I'm an android app developer, web developer and a Cybersecurity enthusiast.
 
