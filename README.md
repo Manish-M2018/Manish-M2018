@@ -17,7 +17,7 @@ I'm an android app developer, web developer and a Cybersecurity enthusiast.
 - :man: IEEE Execom member 
 
 ### Currently working on: 
-AI-based research internship with Samsung Research Institute - Bangalore
+:robot: AI-based research internship with Samsung Research Institute - Bangalore
 
 
 
