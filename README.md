@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Manish.M, student at Ramaiah Institute of Technology,Bangalore. 
+I'm Manish.M, a student at Ramaiah Institute of Technology,Bangalore. 
 
 <!--
 **Manish-M2018/Manish-M2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
