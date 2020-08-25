@@ -19,7 +19,5 @@ I'm an android app developer, web developer and a Cybersecurity enthusiast.
 ### Currently working on: 
 :robot: AI-based research internship with Samsung Research Institute - Bangalore
 
-[![Manish's github stats](https://github-readme-stats.vercel.app/api?username=Manish-M2018&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
