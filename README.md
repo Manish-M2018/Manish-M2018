@@ -15,6 +15,7 @@ I'm an android app developer, web developer and a Cybersecurity enthusiast.
 - :sparkles: Android app developer intern at FOLK @ISKCON Bangalore (5000+ users of the app)
 - :walking: Core Member - Developer Student Clubs
 - :man: IEEE Execom member 
+- :octocat: Android app developer at [MSRIT Connect](https://play.google.com/store/apps/details?id=msrit.msritconnect.com.msritconnect&hl=en)
 
 ### Currently working on: 
 :robot: AI-based research internship with Samsung Research Institute - Bangalore
