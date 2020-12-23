@@ -12,10 +12,10 @@ I'm an android app developer, web developer and a Cybersecurity enthusiast.
 - :trophy: Winner Smart India Hackathon 2019 software edition 
 - :octocat: Delta Winter of Code by NIT Trichy -> Open Source Contribution 
 - :sparkles: Web and android app developer intern at PupilMesh Pvt. Ltd.
-- :sparkles: Android app developer intern at FOLK @ISKCON Bangalore (5000+ users of the app)
+- :sparkles: Android app developer intern at FOLK @ISKCON Bangalore (10K+ users of the app)
 - :walking: Core Member - Developer Student Clubs
 - :man: IEEE Execom member 
-- :octocat: Android app developer at [MSRIT Connect](https://play.google.com/store/apps/details?id=msrit.msritconnect.com.msritconnect&hl=en)
+- :octocat: Android app developer at [MSRIT Connect](https://play.google.com/store/apps/details?id=msrit.msritconnect.com.msritconnect&hl=en) (5K+ users of the app)
 
 ### Currently working on: 
 :robot: AI-based research internship with Samsung Research Institute - Bangalore
