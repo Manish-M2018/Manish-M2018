@@ -20,5 +20,5 @@ I'm an android app developer, web developer and a Cybersecurity enthusiast.
 
 ### Currently working on: 
 
-Leading a team of 10 members for the task of identification of vulnerabilities in the Critical Information Infrastructure of the country at [NCIIPC (a unit of NTRO)](https://www.nciipc.gov.in/)
+Leading a team of 10 members for the task of identification of vulnerabilities in the Critical Information Infrastructure of the country at [NCIIPC](https://www.nciipc.gov.in/)
 
