@@ -17,8 +17,8 @@ I'm an android app developer, web developer and a Cybersecurity enthusiast.
 - :man: IEEE Execom member 
 - :octocat: Android app developer at [MSRIT Connect](https://play.google.com/store/apps/details?id=msrit.msritconnect.com.msritconnect&hl=en) (5K+ users of the app)
 - :robot: AI-based research internship with Samsung Research Institute - Bangalore
+- :guardsman: Led a team of 10 members for the task of identification of vulnerabilities in the Critical Information Infrastructure of the country at [NCIIPC](https://www.nciipc.gov.in/)
 
-### Currently working on: 
 
-Leading a team of 10 members for the task of identification of vulnerabilities in the Critical Information Infrastructure of the country at [NCIIPC](https://www.nciipc.gov.in/)
+
 
