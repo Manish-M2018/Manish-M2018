@@ -6,7 +6,7 @@ I'm Manish.M, a student at Ramaiah Institute of Technology,Bangalore.
 
 ### About me :smiley:
 
-I am currently in the 3rd year of my Undergraduate programme in 'Computer Science and Engineering'<br>
+I am currently in the final year of Undergraduate programme in 'Computer Science and Engineering'<br>
 I'm an android app developer, web developer and a Cybersecurity enthusiast.
 
 - :trophy: Winner Smart India Hackathon 2019 software edition 
