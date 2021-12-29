@@ -22,7 +22,7 @@ I'm an android app developer, web developer and a Cybersecurity enthusiast.
 
 ### Currently working on: 
 
-A funded research project with 'Cybersecurity Karnataka' (CysecK) and 'Indian Institute of Science' (IISc) to develop a secure lightweight distributed framework for auditing shared data of smart applications using ‘Fully Homomorphic Encryption’ in cloud storage.
+A funded research project with [Cybersecurity Karnataka](https://cs-coe.iisc.ac.in/) and [Indian Institute of Science](https://iisc.ac.in/) to develop a secure lightweight distributed framework for auditing shared data of smart applications using ‘Fully Homomorphic Encryption’ in cloud storage.
 
 
 
