@@ -20,5 +20,10 @@ I'm an android app developer, web developer and a Cybersecurity enthusiast.
 - :guardsman: Led a team of 10 members for the task of identification of vulnerabilities in the Critical Information Infrastructure of the country at [NCIIPC](https://www.nciipc.gov.in/)
 
 
+### Currently working on: 
+
+A funded research project with 'Cybersecurity Karnataka' (CysecK) and 'Indian Institute of Science' (IISc) to develop a secure lightweight distributed framework for auditing shared data of smart applications using ‘Fully Homomorphic Encryption’ in cloud storage.
+
+
 
 
