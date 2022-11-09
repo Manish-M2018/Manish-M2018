@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Manish Manohar, a student at Ramaiah Institute of Technology,Bangalore. 
+I'm Manish Manohar, a Master's student at Carnegie Mellon University, Pittsburgh, Pennsylvania, United States. 
 
 <!--
 **Manish-M2018/Manish-M2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
